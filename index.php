@@ -1,6 +1,6 @@
 <html>
     <head>
-        <><title>
+        <title>
             AQUÍ VA UN POST
         </title>
         <link rel="stylesheet" href="css/estilos.css">

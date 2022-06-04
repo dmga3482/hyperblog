@@ -11,11 +11,7 @@
             <div id= "cabecera">
                 Hyperblog
                 <span id="tagline">
-<<<<<<< HEAD
-                    CAMBIO DE BLOG PARA CONFLICTO
-=======
                     MODIFICACIÓN DE CABECERA
->>>>>>> rama_1
                 </span>
             </div>
             <div id="post">

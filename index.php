@@ -11,7 +11,7 @@
             <div id= "cabecera">
                 Hyperblog
                 <span id="tagline">
-                    Tu blog de confianza
+                    MODIFICACIÓN DE CABECERA
                 </span>
             </div>
             <div id="post">

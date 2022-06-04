@@ -9,7 +9,10 @@
     <body>
         <div id="container">
             <div id= "cabecera">
-                CABECERA
+                Hyperblog
+                <span id="tagline">
+                    Tu blog de confianza
+                </span>
             </div>
             <div id="post">
                 <h1>TITULO NUEVO PARA EL POST</h1>

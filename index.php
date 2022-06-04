@@ -11,7 +11,7 @@
             <div id= "cabecera">
                 Hyperblog
                 <span id="tagline">
-                    Tu blog de confianza
+                    CAMBIO DE BLOG PARA CONFLICTO
                 </span>
             </div>
             <div id="post">
@@ -21,6 +21,9 @@
                 </p>
                 <p>
                     Un párrafo, también llamado parágrafo, es una unidad comunicativa formada por un conjunto de oraciones secuenciales que trata un mismo tema. Está compuesto por un conjunto de oraciones que tienen cierta unidad temática o que, sin tenerla, se enuncian juntas.
+                </p>
+                <p>
+                    TEXTO PARA SUSCRIPCIÓN.
                 </p>
             </div>
         </div>

@@ -2,7 +2,7 @@
 
     <head>
         <title>
-            AQUÍ VA UN POST
+            BIENVENIDO A HIPERBLOG
         </title>
         <link rel="stylesheet" href="css/estilos.css">
     </head>

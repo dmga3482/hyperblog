@@ -9,6 +9,7 @@
     <body>
         <div id="container">
             <div id= "cabecera">
+                <img id="logo" src="imagenes/space_x_new.jpg" /> 
                 Hyperblog
                 <span id="tagline">
                     MODIFICACIÓN DE CABECERA

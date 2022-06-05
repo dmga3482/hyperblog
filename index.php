@@ -25,7 +25,7 @@
                 </p>
                 <p>
                     <div id= "pie">
-                        TEXTO PARA SUSCRIPCIÓN.
+                        PARA CARGA INFORMACION DE PIE.
                     </div>
                 </p>
             </div>

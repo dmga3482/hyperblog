@@ -36,7 +36,8 @@ body
 }
 #pie
 {
-    background: rgb(120, 120, 182);
+    background: rgb(117, 115, 124);
+    text-align: center;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;

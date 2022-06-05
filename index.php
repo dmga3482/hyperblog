@@ -24,6 +24,9 @@
                     Un párrafo, también llamado parágrafo, es una unidad comunicativa formada por un conjunto de oraciones secuenciales que trata un mismo tema. Está compuesto por un conjunto de oraciones que tienen cierta unidad temática o que, sin tenerla, se enuncian juntas.
                 </p>
                 <p>
+                    <b>Párrafo para fix_type.</b>
+                </p>
+                <p>
                     <div id= "pie">
                         PARA CARGA INFORMACION DE PIE.
                     </div>
